@@ -44,4 +44,10 @@ After images are captured they are stored in the dataset folder and if after det
 
 All this can be stored as evidence and reports.
 
-![Alt Detector](relative/path/to/img.jpg?raw=true "Title")
+![Alt Detector](https://github.com/RohanShah27/Face-Recognition-System/blob/master/screenshot/detector.png?raw=true "Title")
+
+# Publications
+
+1. Research Paper published on IJSRD journal 2019
+   http://ijsrd.com/Article.php?manuscript=IJSRDV7I20500
+2. Implementation paper published on ICaste2019-2020
